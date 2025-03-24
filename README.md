@@ -1,4 +1,4 @@
-# weather-app-
+# weather-app
 weather app developed from react framework .
 
 Prompt : write me a code for weather app in react to be executed in inside snack expo  dev without external dependencies.
