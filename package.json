@@ -2,9 +2,9 @@
   "name": "weather-app",
   "version": "1.0.0",
   "scripts": {
-    "start": "expo start",
+    "start": "npm start",
     "test": "jest",
-    "build": "expo build:web"
+    "build": "npm run build"
   },
   "dependencies": {
     "expo": "^49.0.0",
